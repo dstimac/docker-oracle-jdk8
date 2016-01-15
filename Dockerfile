@@ -1,5 +1,5 @@
 FROM mentatlabs/base
-MAINTAINER Davor Stimac [davor@mentat-labs.com]
+MAINTAINER Mentat Labs Ltd "admin@mentat-labs.com"
 
 # Install wget
 RUN apt-get update && apt-get install -y wget \
